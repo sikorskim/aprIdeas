@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee Id="1" FirstName="Adam" LastName="Nowak" NIP="7851769827" Salary="44,00" PositionId="1" DateOfBirth="2015-01-01T00:00:00" />
+  <Employee Id="2" FirstName="Elżbieta" LastName="Jankowiak" NIP="7851769827" Salary="8888,00" PositionId="4" DateOfBirth="1899-01-09T00:00:00" />
+  <Employee Id="3" FirstName="Jan" LastName="Kowalski" NIP="7851769827" Salary="1220,90" PositionId="1" DateOfBirth="2013-01-02T00:00:00" />
+  <Employee Id="4" FirstName="John" LastName="Rambo" NIP="7851769827" Salary="0" PositionId="5" DateOfBirth="1945-10-05T00:00:00" />
+  <Employee Id="5" FirstName="Jolanta" LastName="Schabowska" NIP="7851769827" Salary="10,46" PositionId="2" DateOfBirth="1988-05-08T00:00:00" />
+  <Employee Id="6" FirstName="Robert" LastName="Olesiński" NIP="7851769827" Salary="1500" PositionId="5" DateOfBirth="1650-09-07T00:00:00" />
+  <Employee Id="7" FirstName="Gniewomir" LastName="Bąk" NIP="7851769827" Salary="0" PositionId="6" DateOfBirth="1990-12-25T00:00:00" />
+  <Employee Id="8" FirstName="Kazimierz" LastName="Wielki" NIP="7851769827" Salary="12000,30" PositionId="1" DateOfBirth="1310-04-30T00:00:00" />
+  <Employee Id="9" FirstName="Zenon" LastName="Długowąs" NIP="7851769827" Salary="2200" PositionId="3" DateOfBirth="1954-02-02T00:00:00" />
+</Employees>

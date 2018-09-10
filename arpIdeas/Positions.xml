@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Positions>
+  <Position Id="1" Name="programista" />
+  <Position Id="2" Name="magazynier" />
+  <Position Id="3" Name="komandos" />
+  <Position Id="4" Name="figurant" />
+  <Position Id="5" Name="prezes" />
+  <Position Id="6" Name="bezrobotny" />
+</Positions>
